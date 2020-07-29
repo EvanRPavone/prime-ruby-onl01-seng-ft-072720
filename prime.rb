@@ -1,3 +1,4 @@
-def prime?(7)
-
+def prime?(number)
+  start = 2
+  if number >1
 end# Add  code here!
